@@ -1,36 +1,32 @@
 {
-    "id": "calciumcitrate",
-    "title": "Calcium Citrate",
+    "id": "magnesiumcitrate",
+    "title": "Magnesium Citrate",
     "brandName": "N/A",
     "category": "Excipients",
     "subcategory": "Minerals & Supplements",
-    "overview": "Calcium citrate is a white, odorless, slightly hygroscopic powder. It is a calcium salt of citric acid and serves as a highly bioavailable source of calcium for dietary supplementation.",
+    "overview": "Magnesium citrate is a highly bioavailable magnesium salt formed with citric acid. It appears as a white, slightly hygroscopic powder with a slightly acidic taste.",
     "gallery": [
       {
-        "url": "../assets/images/products/photography/calciumcitrate/image-1.jpg",
-        "alt": "Calcium Citrate product image 1"
+        "url": "../assets/images/products/photography/crospovidone/image-1.jpg",
+        "alt": "PARONE product image 1"
       },
       {
-        "url": "../assets/images/products/photography/calciumcitrate/image-2.jpg",
-        "alt": "Calcium Citrate product image 2"
+        "url": "../assets/images/products/photography/crospovidone/image-2.jpg",
+        "alt": "PARONE product image 2"
       }
     ],
     "variants": [
       {
-        "id": "calciumcitrate100",
-        "name": "Calcium Citrate",
+        "id": "magnesiumcitrate100",
+        "name": "Magnesium Citrate",
         "specifications": [
           {
             "parameter": "Standards Compliance",
-            "value": "Meets USP/NF standards"
+            "value": "Meets IP/USP/NF standard"
           },
           {
-            "parameter": "Assay",
-            "value": "NLT 98.0% and NMT 102.0%"
-          },
-          {
-            "parameter": "Particle Size Distribution",
-            "value": "As per Requirement"
+            "parameter": "Magnesium Content",
+            "value": "Between 14.5% to 16.4% elemental magnesium by weight"
           },
           {
             "parameter": "Heavy Metals",
@@ -44,28 +40,29 @@
       }
     ],
     "features": [
-      "High bioavailability: Well-absorbed by the body, particularly beneficial for individuals with low stomach acid or certain digestive conditions",
-      "Water-soluble: Dissolves efficiently and can be taken with or without food",
-      "Generally considered well-tolerated: Less likely to cause constipation compared to some other calcium supplements"
+      "Water Soluble: Dissolves easily for efficient absorption",
+      "Bioavailability: Provides a readily absorbable form of magnesium for the body",
+      "Osmotic Laxative Properties: Can attract water into the intestines, softening stool, and promoting bowel movements",
+      "Potential Health Benefits: May support muscle function, nerve health, bone health, and cardiovascular health"
     ],
     "applications": [
       {
         "title": "Pharmaceutical",
-        "description": "Prevention and treatment of calcium deficiencies and osteoporosis",
+        "description": "Dietary supplement for magnesium deficiency and laxative for short-term relief of constipation",
         "iconType": "image",
         "iconUrl": "../assets/images/products/Pharmaceutical.jpg",
         "largeIcon": true
       },
       {
         "title": "Nutraceutical",
-        "description": "Supplement formulations in tablets, capsules, powders, or liquids",
+        "description": "May be combined with other vitamins and minerals in supplement formulations",
         "iconType": "image",
         "iconUrl": "../assets/images/products/Nutraceutical.jpg",
         "largeIcon": true
       },
       {
         "title": "Food",
-        "description": "Fortification of beverages, dairy products, and other foods with calcium (check regional regulations)",
+        "description": "Potential use in fortified beverages (check regional regulations)",
         "iconType": "image",
         "iconUrl": "../assets/images/products/Food.jpg",
         "largeIcon": true

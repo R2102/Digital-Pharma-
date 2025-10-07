@@ -1,36 +1,34 @@
 {
-    "id": "calciumcitrate",
-    "title": "Calcium Citrate",
+    "id": "potassiumcitrate",
+    "title": "Potassium Citrate",
     "brandName": "N/A",
     "category": "Excipients",
     "subcategory": "Minerals & Supplements",
-    "overview": "Calcium citrate is a white, odorless, slightly hygroscopic powder. It is a calcium salt of citric acid and serves as a highly bioavailable source of calcium for dietary supplementation.",
+    "overview": "Potassium citrate is a white, odorless, crystalline powder with a salty taste. It is the potassium salt of citric acid and serves as a source of potassium and citrate. Potassium citrate is highly soluble in water.",
     "gallery": [
       {
-        "url": "../assets/images/products/photography/calciumcitrate/image-1.jpg",
-        "alt": "Calcium Citrate product image 1"
+        "url": "../assets/images/products/photography/microcrystallinecellulose/image-1.jpg",
+        "target": "popup",
+        "alt": "PARLOSE product image 1",
+        "openInPopup": true
       },
       {
-        "url": "../assets/images/products/photography/calciumcitrate/image-2.jpg",
-        "alt": "Calcium Citrate product image 2"
+        "url": "../assets/images/products/photography/microcrystallinecellulose/image-2.jpg",
+        "alt": "PARLOSE product image 2"
       }
     ],
     "variants": [
       {
-        "id": "calciumcitrate100",
-        "name": "Calcium Citrate",
+        "id": "potassiumcitrate100",
+        "name": "Potassium Citrate",
         "specifications": [
           {
             "parameter": "Standards Compliance",
-            "value": "Meets USP/NF standards"
+            "value": "Meets IP/BP/USP/NF standards"
           },
           {
-            "parameter": "Assay",
-            "value": "NLT 98.0% and NMT 102.0%"
-          },
-          {
-            "parameter": "Particle Size Distribution",
-            "value": "As per Requirement"
+            "parameter": "Purity",
+            "value": "NLT 99.0%"
           },
           {
             "parameter": "Heavy Metals",
@@ -44,28 +42,21 @@
       }
     ],
     "features": [
-      "High bioavailability: Well-absorbed by the body, particularly beneficial for individuals with low stomach acid or certain digestive conditions",
-      "Water-soluble: Dissolves efficiently and can be taken with or without food",
-      "Generally considered well-tolerated: Less likely to cause constipation compared to some other calcium supplements"
+      "Alkalizing Agent: Helps raise the pH of urine, making it less acidic",
+      "Source of Potassium: Provides an essential electrolyte for various bodily functions",
+      "Water Soluble: Dissolves readily for easy consumption"
     ],
     "applications": [
       {
         "title": "Pharmaceutical",
-        "description": "Prevention and treatment of calcium deficiencies and osteoporosis",
+        "description": "Prevention and treatment of kidney stones, management of hypokalemia, treatment of renal tubular acidosis",
         "iconType": "image",
         "iconUrl": "../assets/images/products/Pharmaceutical.jpg",
         "largeIcon": true
       },
       {
-        "title": "Nutraceutical",
-        "description": "Supplement formulations in tablets, capsules, powders, or liquids",
-        "iconType": "image",
-        "iconUrl": "../assets/images/products/Nutraceutical.jpg",
-        "largeIcon": true
-      },
-      {
         "title": "Food",
-        "description": "Fortification of beverages, dairy products, and other foods with calcium (check regional regulations)",
+        "description": "May be used as a buffering agent, flavor enhancer, or stabilizer in some foods (check local regulations)",
         "iconType": "image",
         "iconUrl": "../assets/images/products/Food.jpg",
         "largeIcon": true
@@ -98,6 +89,12 @@
         "name": "GMP",
         "iconType": "image",
         "iconUrl": "../assets/images/certificates/Untitled-2-07.png",
+        "largeIcon": true
+      },
+      {
+        "name": "FSSAI",
+        "iconType": "image",
+        "iconUrl": "../assets/images/certificates/Untitled-2-10.png",
         "largeIcon": true
       }
     ]
